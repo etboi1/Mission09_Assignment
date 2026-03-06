@@ -1,3 +1,5 @@
+// This component returns a footer with a fake copyright
+
 function Footer() {
     return (
         <footer className="bg-dark text-white py-4 mt-auto">

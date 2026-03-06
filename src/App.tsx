@@ -6,6 +6,8 @@ import './App.css'
 function App() {
 
   return (
+    /* Three components called directly from App.tsx, as required. Another component is called from within
+    Teams component */
     <>
       <Header />
       <Teams />
