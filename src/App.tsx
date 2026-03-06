@@ -1,5 +1,6 @@
 import Header from './Header'
 import Teams from './Teams'
+import Footer from './Footer'
 import './App.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
       <Header />
       <Teams />
+      <Footer />
     </>
   )
 }

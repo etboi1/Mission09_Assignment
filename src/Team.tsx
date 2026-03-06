@@ -1,3 +1,8 @@
+/*
+This component takes the school, name, city and state of one team from the Teams component.
+Then it displays that data in a card, returninf the card to the Teams component
+*/
+
 function Team({school, name, city, state} : {
     school: string, 
     name: string, 

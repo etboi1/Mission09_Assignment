@@ -1,3 +1,7 @@
+/*
+This component returns a header explaining the purpose of the website
+*/
+
 function Header() {
 
     return (
