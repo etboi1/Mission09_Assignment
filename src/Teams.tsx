@@ -8,7 +8,7 @@ cards, where each card contains the information for one team
 
 function Teams() {
     return (
-        <div className='row g-4'>
+        <div className='row g-4 p-5'>
             {BBData.teams.map((team) => <Team {...team} />)}
         </div>
     )
